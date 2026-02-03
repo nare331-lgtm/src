@@ -1,0 +1,14 @@
+# 환경 변수 (보안 필수!)
+.env
+.env.local
+
+# 의존성 폴더 (용량 큼)
+node_modules/
+
+# 빌드 결과물
+dist/
+build/
+
+# 운영체제 불필요 파일
+.DS_Store
+Thumbs.db
